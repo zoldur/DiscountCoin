@@ -1,5 +1,5 @@
 # Discount Coiun
-Shell script to install a [Discount Coin Masternode]() on a Linux server running Ubuntu 16.04. Use it on your own risk.
+Shell script to install a [Discount Coin Masternode](https://discountco.in/) on a Linux server running Ubuntu 16.04. Use it on your own risk.
 ***
 
 ## Installation
