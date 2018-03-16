@@ -23,6 +23,7 @@ function compile_node() {
   cd $TMP_FOLDER
   wget -q $COIN_REPO
   strip DiscountCoind
+  chmod +x DiscountCoind
   cp DiscountCoind /usr/local/bin
   cd -
   rm -rf $TMP_FOLDER >/dev/null 2>&1
